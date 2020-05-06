@@ -4,11 +4,11 @@
 
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Autor:** María José Rodríguez Rubio
 
-**Título:** 
+**Título:** Pasea por mis obras
 
-**Resumen:**
+**Resumen:** Mi proyecto consiste en una muestra de mi obra, un portfolio interactivo donde poder conocerme como artista de manera dinámica.
 
 **Licencia: (creative Commons)**
 
