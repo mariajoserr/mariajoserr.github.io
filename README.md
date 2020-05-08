@@ -16,7 +16,7 @@
 ### Memoria del proyecto:
 
 
-Hola
+En este proyecto se ha empleado el programa Hippani para realizar mi portfolio interactivo y personalizado, en el que se podrán recorrer mis obras de manera amena y participativa por parte de los visitantes. Está dividido por secciones y con elementos multimedia que hacen posible un aumento de entretenimiento en el recorrido. Además, consta de alguna animación y transiciones que aportan movimiento.
 
 
 
