@@ -151,7 +151,7 @@ Google Fonts, libres de derechos (Overhaul, Quentin, Dancing Script)
 
 
 
-! [Licencia] (https://licensebuttons.net/l/by-nc/3.0/88x31.png)
+![Licencia](https://licensebuttons.net/l/by-nc/3.0/88x31.png)
 
 https://creativecommons.org/licenses/?lang=es
 
