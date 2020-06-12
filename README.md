@@ -1,4 +1,4 @@
-## (Pasea por mis obras)
+## Pasea por mis obras
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Pasea por mis obras.
 
-**Web:**   mariajoserr.github.io
+**Web:**   https://mariajoserr.github.io
 
 **Autor:**  María José Rodríguez Rubio
 
