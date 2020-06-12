@@ -18,7 +18,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Porfolio personal.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![Logotipo](https://github.com/mariajoserr/mariajoserr.github.io/blob/master/Logo%20memoria.jpg) 
 
 (insertar imágenes a resolucion de 100px alto)
 
