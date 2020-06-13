@@ -132,6 +132,11 @@ Luz en los balcones - Cover de Miguel Poveda
 Voy a intentar - Maqueta de Pablo Alborán
 Nana de Sevilla - Federico García Lorca y La Argentinita
 
+* Vídeos: 
+Propios
+https://www.youtube.com/channel/UCNuSTLLjPF9BDycwD-MkCqQ
+https://www.youtube.com/channel/UCgyqXAXNnNzxj8f76R5iAFQ
+
 * Imágenes:  
 De mi propiedad
 Pixabay
