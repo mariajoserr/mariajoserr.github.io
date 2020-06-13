@@ -44,15 +44,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![Storyboard](https://github.com/mariajoserr/mariajoserr.github.io/blob/master/Storyboard%20MJRR.jpg)
 
 
 
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![Sitemap](https://github.com/mariajoserr/mariajoserr.github.io/blob/master/Sitemap%20MJRR.jpg)
 
 
 
