@@ -43,12 +43,19 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 
 En el proyecto, se pasa por una introducción, que lleva a un menú con botones para ir a los créditos y a otro menú. Este segundo menú contiene 7 botones con las distintas disciplinas que realizo y otros dos apartados.
+
 -Dibujo: galería de imágenes.
+
 -Pintura: Quizz con preguntas sobre mis obras, explicaciones y contador de aciertos y fallos.
+
 -Escultura: acertijo con temporizador que lleva a un vídeo.
+
 -Fotografía: vídeo.
+
 -Poesía: Lorca que camina con el teclado para desplazarse por las escenas y leer los textos.
+
 -Inspiración: apartado con cuatro artistas que me inspiran junto a música y vídeo.
+
 -Presentación: parte donde me presento y se encuentra el link a mi instagram artístico.
 
 
@@ -135,9 +142,13 @@ https://www.youtube.com/watch?v=YTtlFe3GNOk
 **Recursos y materiales audiovisuales:**
 
 * Musica:
+
 Perth - Bon Iver (fragmento)
+
 Luz en los balcones - Cover de Miguel Poveda
+
 Voy a intentar - Maqueta de Pablo Alborán
+
 Nana de Sevilla - Federico García Lorca y La Argentinita
 
 * Vídeos: 
